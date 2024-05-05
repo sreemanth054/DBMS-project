@@ -1,0 +1,6 @@
+ContactID,Email,Phone,Address
+1,john.doe@example.com,123-456-7890,"123 Main St"
+2,jane.smith@example.com,987-654-3210,"456 Elm St"
+3,bob.johnson@example.com,555-123-4567,"789 Oak St"
+4,emma.watson@example.com,111-222-3333,"567 Pine St"
+5,michael.jackson@example.com,444-555-6666,"890 Maple St"

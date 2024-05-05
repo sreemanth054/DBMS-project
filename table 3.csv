@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName,HeadOfDepartment,Location,,,,,
+1,Mathematics,Prof. Smith,"Building A, Room 101",,,,,
+2,English,Dr. Johnson,"Building B, Room 201",,,,,
+3,Physics,Dr. Brown,"Building C, Room 301",,,DepartmentID,DepartmentName,Location
+4,History,Prof. Davis,"Building D, Room 401",,,1,Mathematics,"Building A, Room 101"
+5,Biology,Dr. White,"Building E, Room 501",,,2,English,"Building B, Room 201"
+,,,,,,3,Physics,"Building C, Room 301"
+,,,,,,4,History,"Building D, Room 401"
+,,,,,,5,Biology,"Building E, Room 501"
+,,,,,,,,
+,,,,,,DepartmentID,HeadOfDepartment,
+,,,,,,1,Prof. Smith,
+,,,,,,2,Dr. Johnson,
+,,,,,,3,Dr. Brown,
+,,,,,,4,Prof. Davis,
+,,,,,,5,Dr. White,
